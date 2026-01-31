@@ -1,0 +1,67 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="PwUTR8UG4js2ync4_UIp">
+    <mxGraphModel dx="939" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ywWIZ-sh-MKpWwyLKiZ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-1" value="输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ywWIZ-sh-MKpWwyLKiZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-3" value="产品名称" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ywWIZ-sh-MKpWwyLKiZ-5" target="9ywWIZ-sh-MKpWwyLKiZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-5" value="文案智能体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ywWIZ-sh-MKpWwyLKiZ-6" target="9ywWIZ-sh-MKpWwyLKiZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-6" value="规定(提示词)&lt;div&gt;你是一个数码博主，我需要你。。。。&lt;/div&gt;&lt;div&gt;你生成文案需要按照什么格式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ywWIZ-sh-MKpWwyLKiZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-8" value="利用素材" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ywWIZ-sh-MKpWwyLKiZ-10" target="9ywWIZ-sh-MKpWwyLKiZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-10" value="根据文案匹配素材&lt;div&gt;智能体&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9ywWIZ-sh-MKpWwyLKiZ-13" target="9ywWIZ-sh-MKpWwyLKiZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-13" value="规定(提示词)&lt;div&gt;你是一个数码博主，我需要你。。。。&lt;/div&gt;&lt;div&gt;你生成文案需要按照什么格式&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-16" value="视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-21" value="视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ywWIZ-sh-MKpWwyLKiZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.459;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9ywWIZ-sh-MKpWwyLKiZ-21" target="9ywWIZ-sh-MKpWwyLKiZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
